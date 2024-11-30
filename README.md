@@ -23,7 +23,7 @@ This tool helps you delete files and folders older than a specific date, with a 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/easy_delete.git
+    git clone https://github.com/bozicschucky/easy_delete.git
     cd easy_delete
     ```
 
