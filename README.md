@@ -2,6 +2,12 @@
 
 This is a Python application that allows users to delete files and folders older than a specified date from a selected directory. The application uses PyQt5 for the graphical user interface.
 
+##### Why I Created This Project
+
+As programmers, we often accumulate a massive number of files over time—files that we may forget about or never use again. Managing and cleaning up these files manually can be tedious and time-consuming. To solve this problem, I created this project.
+
+This tool provides a simple yet effective solution: select a folder, specify a date threshold, and let the script take care of identifying and deleting files older than the specified date. It automates an otherwise mundane task, saving time and effort while keeping your system organized.
+
 ## Features
 
 - Select a folder to scan for files and folders.
@@ -56,8 +62,8 @@ This is a Python application that allows users to delete files and folders older
 ### Screenshot 1
 ![Main Window](screenshot_1.png)
 
-### Progress Bar
-![Progress Bar](screenshot_2.png)
+### Screenshot 2
+![Main Window](screenshot_2.png)
 
 ## Code Overview
 
